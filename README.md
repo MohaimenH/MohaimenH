@@ -8,7 +8,13 @@ I am a:
 
 I am currently diving into:
 
-- Web Development
+- Web Development (React & NodeJS, specifically)
 - Behavorial Psychology
 
+Currently learning from:
+
+- Front End Masters
+- The Odin Project
+- Full Stack Open
+  
 I love to learn. That's it.
