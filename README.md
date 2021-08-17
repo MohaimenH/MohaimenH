@@ -7,10 +7,7 @@ I am a:
 - Educator
 - 3rd Year Software Engineering Student
 
-I am currently diving into:
-
-- Web Development (React & NodeJS, specifically)
-- Behavorial Psychology
+I am currently taking a deep dive into the MERN stack. You can find my projects (and progress) in the pinned repositories!
 
 Currently learning from:
 
