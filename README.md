@@ -5,7 +5,7 @@ I am a:
 - Lifelong Learner
 - Software Developer
 - Educator
-- 3rd Year Software Engineering Student
+- 4th Year Software Engineering Student
 
 I am currently taking a deep dive into the MERN stack. You can find my projects (and progress) in the pinned repositories!
 
