@@ -1,23 +1,27 @@
 # Hi, I am Mohaimen!
 
-I am a:
+I am currently a:
 
-- Lifelong Learner
-- Software Developer
-- Educator
-- 4th Year Software Engineering Student
+- Software Engineer at Quadratica
+- Software Engineer / Research Assistant at Lassonde School of Engineering
+- Tutorial Instructor at Lassonde School of Engineering (ENG2001)
 
-I am currently taking a deep dive into the MERN stack. You can find my projects (and progress) in the pinned repositories!
+Previously I was a:
 
-Currently learning from:
+- Software Engineer at Deloitte
+- Junior Backend Engineer at Centre for Refugee Studies (York University)
 
-- Front End Masters
-- The Odin Project
-- Full Stack Open
-- FreeCodeCamp
+Currently working on:
 
-I learn from the videos at FEM and then apply them to projects on TOP. FSO keeps me on track though and provides a clear path towards becoming a proficient web developer. I also dabble a bit on FCC (totally not for the certifications).
+- API Integrations 
+- MIDI2 Software Development (C/C++)
+- Teaching and learning CS/SE concepts
 
-I love to learn. That's it.
+Academics:
 
-If you want to join the awesome people at X, Simplified in helping others to code, send me a DM on Twitter @mohaimenhsn.
+- B.Eng in Software Engineering from Lassonde School of Engineering
+    - Awards: Dean's Honor List, Lassonde Co-Op Student of the Year 2022
+
+I love to learn. That's it, that's the tweet.
+
+I lied, I also love connecting with people and building value-focused culture in teams.
