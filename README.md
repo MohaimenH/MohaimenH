@@ -19,7 +19,7 @@ Currently working on:
 
 Academics:
 
-- B.Eng in Software Engineering from Lassonde School of Engineering
+- B.Eng in Software Engineering from Lassonde School of Engineering (April 2024)
     - Awards: Dean's Honor List, Lassonde Co-Op Student of the Year 2022
 
 I love to learn. That's it, that's the tweet.
