@@ -2,13 +2,14 @@
 
 I am currently a:
 
-- Software Engineer at Quadratica
-- Software Engineer / Research Assistant at Lassonde School of Engineering
-- Tutorial Instructor at Lassonde School of Engineering (ENG2001)
+- Software Engineer at Deloitte
 
 Previously I was a:
 
-- Software Engineer at Deloitte
+- Software Engineer at Quadratica
+- Junior Software Engineer at Deloitte
+- Software Engineer / Research Assistant at Lassonde School of Engineering
+- Tutorial Instructor at Lassonde School of Engineering (ENG2001)
 - Junior Backend Engineer at Centre for Refugee Studies (York University)
 
 Currently working on:
